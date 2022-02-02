@@ -7,6 +7,10 @@
   This project involved refactoring an e-commerce platform so that it uses Redux.
   
   ![image](https://user-images.githubusercontent.com/88639772/152074742-58d903f5-2e02-4044-888a-cbaf263c140b.png)
+  
+  ![image](https://user-images.githubusercontent.com/88639772/152074901-e0946745-b3b9-4fd6-8f5c-1126d587b2f4.png)
+  
+  Deployed via heroku at: 
 
   # Table of Contents 
   * [Installation](#-Installation)
